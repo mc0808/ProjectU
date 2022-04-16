@@ -9,6 +9,6 @@
 const category = "car";
 console.log(`https://mysait.com/${category}`);
 
-const myname = "Maks";
-alert(`Hello ${myname}`);
+// const myname = "Maks";
+// alert(`Hello ${myname}`);
 
